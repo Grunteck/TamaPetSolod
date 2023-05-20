@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Тамагочи</string>
+    <string name="loadedpetname">Тамагочи</string>
+    <string name="create_a_new_pet">Создать нового питомца?</string>
+    <string name="open_a_pet_already_created">Открыть существующего питомца?</string>
+    <string name="name_your_new_pet">Назовите питомца!</string>
+    <string name="age">Возраст</string>
+    <string name="hunger">Сытость</string>
+    <string name="water">Вода</string>
+    <string name="happy">Счастье</string>
+    <string name="health">Здоровье</string>
+    <string name="death">Смерть</string>
+    <string name="pet_name">Имя питомца</string>
+    <string name="submit">Создать</string>
+    <string name="game_1">Игра 1</string>
+    <string name="game_2">Игра 2</string>
+    <string name="guess_a_number">Угадай номер (0–4)</string>
+    <string name="you_get_2_tries">У вас есть 2 попытки</string>
+    <string name="guess_a_letter">Угадай букву</string>
+    <string name="nope">Нет!</string>
+    <string name="correct">Правильно!</string>
+    <string name="your_pet_died">Ваш питомец умер :( </string>
+    <string name="scenario_01"> упал с лестницы! Он чувствует боль и глупость… счастье (–10) и здоровье (–15).</string>
+    <string name="scenario_02"> получены загадочные розы! ♥ ♥ ♥ счастье (+15)</string>
+    <string name="scenario_03"> сегодня его дразнили… счастье (–10)</string>
+    <string name="scenario_04"> подрался с другим питомцем! счастье (-10) и здоровье (-15)</string>
+    <string name="scenario_05"> чуть не получил мячом по голове. пытаясь
+увернуться от мяча, он упал на траву. это было на вершине крутого холма, так что он покатился кубарем. счастье(-10)</string>
+    <string name="scenario_06"> нашел чипсы и съел их. голод (+2) здоровье (-2)</string>
+    <string name="scenario_07"> завел нового друга!! ♥ ♥ счастье (+20)</string>
+    <string name="scenario_08"> разрушил ваш дом(. счастье (-15)</string>
+    <string name="scenario_09"> был найдем, жующим снаружи все подряд.
+        Это что, беличий хвост? здоровье (-15)</string>
+    <string name="scenario_10"> украл конфету из прилавка! счастье (-15) и здоровье (-10)</string>
+    <string name="scenario_11"> говорил действительно злые вещи, которые были совершенно неуместны! счастье (-10)</string>
+    <string name="scenario_12"> был посещен Шинигами. Крутость (+100) но это не входит в статы, так что\…</string>
+    <string name="scenario_13"> ушиб палец на ноге. упс! здоровье (-2)</string>
+    <string name="scenario_14"> потерялся по пути в школу. счастье (-5)</string>
+    <string name="scenario_15"> дождь из цветов и шоколадок!!! счастье (+5)</string>
+    <string name="scenario_16"> попытался научиться чему-то новому, но не получилось :( счастье (-5)</string>
+    <string name="scenario_17"> получился выучить что-то новое!! счастье (+10)</string>
+    <string name="scenario_18"> попытался взломать пентагон, но не получилось(… счастье (-20)</string>
+    <string name="scenario_19"> получилось взломать пентагон!!! счастье (+10)</string>
+    <string name="scenario_20"> прогулялся по парку, погода солнечная. счастье (+10)</string>
+    <string name="scenario_21"> прогулялся по парку во время дождя! счастье (+20)</string>
+    <string name="scenario_22"> скушал червяков, тк они никому не нравятся. счастье (-20) и здоровье (-20)</string>
+</resources>
